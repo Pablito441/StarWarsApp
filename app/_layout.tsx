@@ -1,7 +1,7 @@
 import { Stack } from "expo-router";
 
 const routeScreenCategoriesOptions = {
-  title: "Detalles del Item",
+  title: "Details",
   headerStyle: { backgroundColor: "#988EE4" },
   headerTintColor: "#fff",
 };
